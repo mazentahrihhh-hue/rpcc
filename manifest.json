@@ -1,0 +1,14 @@
+{
+  "name": "MW2 Rich Presence",
+  "description": "Custom Rich Presence editor for Revenge. Choose the application, name, details, state, images, buttons and timestamps.",
+  "authors": [
+    {
+      "name": "ChatGPT",
+      "id": "0"
+    }
+  ],
+  "main": "src/index.js",
+  "vendetta": {
+    "icon": "ic_game_controller"
+  }
+}
